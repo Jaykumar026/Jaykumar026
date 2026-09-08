@@ -33,6 +33,20 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaykumar026&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaykumar026&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jaykumar026&theme=tokyonight&hide_border=true" />
+</p>
+
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🧠 NeuroPath-AI
