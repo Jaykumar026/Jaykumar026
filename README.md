@@ -1,77 +1,198 @@
+<!-- DYNAMIC ANIMATED HERO HEADER (REPLACED STATIC BANNER) -->
 <p align="center">
-  <img src="./banner.png" alt="Jay Kumar Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=220&section=header&text=Jay%20Kumar&fontSize=48&fontAlignY=36&animation=twinkling&desc=B.Tech%20CSE%20(Microsoft%20IEP)%20%7C%20Software%20Developer&descAlignY=58&descSize=18" width="100%" alt="Jay Kumar Dynamic Banner" />
 </p>
 
-# 👋 Hi, I'm Jay Kumar
+<!-- LIVE TYPING ANIMATION -->
+<p align="center">
+  <a href="https://github.com/Jaykumar026">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&height=45&lines=Building+Scalable+Cloud+%26+Web+Applications;DSA+%2B+Core+Systems+in+Modern+C%2B%2B;Exploring+Explainable+AI+%26+NeuroPath-AI;Focused+on+High-Performance+Clean+Code;" alt="Typing SVG" />
+  </a>
+</p>
 
-### B.Tech CSE Student | Microsoft IEP | Software Developer
-
-💻 Passionate about Software Development, Web Development & AI/ML  
-☁️ Exploring Microsoft Azure & Cloud Technologies  
-🧩 Learning Data Structures & Algorithms  
-🚀 Building projects and participating in hackathons
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech Computer Science & Engineering
-- 💻 Interested in Software Development & Web Development
-- 🧠 Currently learning DSA with C++
-- ☁️ Exploring Microsoft Azure
-- 🤖 Interested in AI/ML
-- 🚀 Building projects and improving my development skills
-- 🌱 Always learning something new
-
----
-
-<h2>🛠️ Tech Stack</h2>
+<!-- TERMINAL / NEOFETCH PROFILE BOX -->
+<table align="center">
+  <tr>
+    <td>
+      <pre>
+<code><b>sys_info@jaykumar:~$</b> neofetch --profile
+-----------------------------------------
+<b>User:</b>        Jay Kumar (Jaykumar026)
+<b>Focus:</b>       Systems Engineering • AI/ML • Cloud
+<b>Current OS:</b>  Linux (Ubuntu) / Windows
+<b>Core Engine:</b> C++ (DSA) • Python • React
+<b>Cloud Node:</b>  Microsoft Azure ☁️
+<b>Status:</b>      ⚡ Compiling NeuroPath-AI & practicing LeetCode
+-----------------------------------------</code>
+      </pre>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,azure,firebase,git,github,vscode" />
+  <a href="https://www.linkedin.com/in/jay-kumar-92b73b386/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://Jaykumar026.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" />
+  </a>
+  <a href="https://github.com/Jaykumar026" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- INTERACTIVE DYNAMIC TECH STACK -->
+### ⚡ Core Arsenal & Stack
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" alt="GitHub Stats"/>
-  <img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,react,html,css,azure,firebase,git,github,vscode,linux&theme=dark" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<!-- 2X2 INTERACTIVE PROJECT SHOWCASE -->
+### 🚀 Flagship Projects
 
-### 🧠 NeuroPath-AI
-AI/ML based healthcare prioritization project with explainability.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 NeuroPath-AI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Domain-AI%2FML%20Healthcare-critical?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-Python%20%7C%20Explainable%20AI-blue?style=flat-square" />
+      </p>
+      <p>Healthcare prioritization engine featuring interpretable decision paths for medical triage.</p>
+      <p align="center">
+        <a href="https://github.com/Jaykumar026/NeuroPath-AI"><b>View Code Repository ➜</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎓 Alumni Platform</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Domain-Fullstack%20Web-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-React%20%7C%20Firebase-yellow?style=flat-square" />
+      </p>
+      <p>Interactive web portal connecting university students with verified alumni mentors for direct networking.</p>
+      <p align="center">
+        <a href="https://github.com/Jaykumar026/alumni-platform"><b>View Code Repository ➜</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🍽️ Restaurant Portal</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Domain-Frontend%20Architecture-informational?style=flat-square" />
+      </p>
+      <p>Modular culinary interface featuring interactive menus, responsive layout, and clean state handling.</p>
+      <p align="center">
+        <a href="https://github.com/Jaykumar026/restaurant-website"><b>View Code Repository ➜</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💻 DSA & Competitive Engine</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Domain-Algorithms-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-Modern%20C%2B%2B-purple?style=flat-square" />
+      </p>
+      <p>Structured archive of algorithmic patterns, space-time optimizations, and core data structures.</p>
+      <p align="center">
+        <a href="https://github.com/Jaykumar026/DSA"><b>View Code Repository ➜</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+<!-- AESTHETIC LO-FI ANIMATED BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khalidwar/khalidwar/main/coding.gif" alt="Lo-Fi Coding Banner" width="100%" style="border-radius: 10px;">
+</p>
 
-### 🎓 Alumni Platform
-A platform designed to connect students and alumni.
+<!-- NEON TYPING TEXT -->
+<p align="center">
+  <a href="https://github.com/Jaykumar026">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF79C6&center=true&vCenter=true&width=650&height=45&lines=Hi,+I'm+Jay+Kumar+👋;Midnight+Coder+%7C+B.Tech+CSE;Building+AI/ML+%26+Cloud+Systems;Fuelled+by+Caffeine+%26+Clean+Code;" alt="Typing SVG" />
+  </a>
+</p>
 
-### 🧮 Avengers Calculator
-A web-based calculator project.
+<p align="center">
+  <i>"Transforming coffee into scalable code at midnight."</i>
+</p>
 
-### 🍽️ Restaurant Website
-A responsive restaurant website project.
-
-### 💻 DSA & LeetCode
-My journey of practicing Data Structures & Algorithms.
+<p align="center">
+  <a href="https://www.linkedin.com/in/jay-kumar-92b73b386/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Jaykumar026" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF79C6" alt="GitHub" />
+  </a>
+  <a href="https://Jaykumar026.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=50FA7B" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
-## 📚 Currently Learning
+### 🎧 The Workspace 
 
-- Data Structures & Algorithms
-- Java
-- React
-- AI/ML
-- Microsoft Azure
-- System Design
+- 🎓 **Major:** B.Tech Computer Science & Engineering (Microsoft IEP)
+- 🌙 **Current Vibe:** Grinding DSA in C++ & learning System Design
+- ☁️ **Exploring:** Microsoft Azure Cloud Tech & Explainable AI (ML)
+- 🚀 **Building:** Projects, hacking at hackathons, and optimizing performance
 
 ---
 
-## 🤝 Connect With Me
+### 💻 Stack & Tools
+<p align="center">
+  <!-- DARK THEMED SKILL ICONS -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,react,html,css,azure,firebase,git,github,vscode,linux&theme=dark&perline=7" />
+  </a>
+</p>
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/Jaykumar026)
+---
+
+### 🌌 Featured Quests (Projects)
+
+| `NeuroPath-AI` 🧠 | `Alumni Platform` 🎓 |
+| :--- | :--- |
+| **Stack:** Python, AI/ML <br> AI-driven healthcare prioritization engine with explainable decision paths. | **Stack:** React, Firebase <br> Networking platform bridging the gap between university students and verified alumni. |
+| [Explore Code →](https://github.com/Jaykumar026/NeuroPath-AI) | [Explore Code →](https://github.com/Jaykumar026/alumni-platform) |
+
+| `Restaurant Portal` 🍽️ | `DSA Engine` 💻 |
+| :--- | :--- |
+| **Stack:** HTML, CSS, JS <br> Responsive and dynamic culinary web interface with interactive components. | **Stack:** Modern C++ <br> My personal vault for data structures, algorithms, and LeetCode grinding. |
+| [Explore Code →](https://github.com/Jaykumar026/restaurant-website) | [Explore Code →](https://github.com/Jaykumar026/DSA) |
+
+---
+
+### 📈 GitHub Telemetry
+
+<p align="center">
+  <!-- DARK TOKYO/RADICAL THEME FOR STATS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaykumar026&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jay's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaykumar026&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160" />
+</p>
+---
+
+<!-- GITHUB STATS & TROPHIES -->
+### 📊 Git Metrics & Telemetry
+
+<p align="center">
+  <img src="./profile/stats.svg" height="165" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg" height="165" alt="Top Languages"/>
+</p>
+
+<!-- DYNAMIC 3D CONTRIBUTION WAVE -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jaykumar026&theme=dracula&no-frame=true&column=6&margin-w=10" alt="Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Writing clean, deterministic code from the memory layer up to the cloud."</i>
+</p>
