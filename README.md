@@ -1,6 +1,6 @@
-<!-- DYNAMIC DEEP AZURE BLUE WAVE BANNER -->
+<!-- DYNAMIC FORCED BLUE WAVE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0052D4,4364F7&height=220&section=header&text=Jay%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=B.Tech%20CSE%20(Microsoft%20IEP)%20%7C%20Software%20Developer&descAlignY=60&descSize=18" width="100%" alt="Jay Kumar Dynamic Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052D4&height=220&section=header&text=Jay%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=B.Tech%20CSE%20(Microsoft%20IEP)%20%7C%20Software%20Developer&descAlignY=60&descSize=18&v=2" width="100%" alt="Jay Kumar Dynamic Banner" />
 </p>
 
 <!-- NEON TYPING TEXT (BLUE/CYAN) -->
