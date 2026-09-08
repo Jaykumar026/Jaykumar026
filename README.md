@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Jay Kumar
 
-<!--
-**Jaykumar026/Jaykumar026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | Microsoft IEP | Software Developer
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development, Web Development & AI/ML  
+☁️ Exploring Microsoft Azure & Cloud Technologies  
+🧩 Learning Data Structures & Algorithms  
+🚀 Building projects and participating in hackathons
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech Computer Science & Engineering
+- 💻 Interested in Software Development & Web Development
+- 🧠 Currently learning DSA with C++
+- ☁️ Exploring Microsoft Azure
+- 🤖 Interested in AI/ML
+- 🚀 Building projects and improving my development skills
+- 🌱 Always learning something new
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+C • C++ • Java • Python • JavaScript
+
+### Web Development
+HTML • CSS • JavaScript • React
+
+### Cloud & Tools
+Microsoft Azure • Firebase • Git • GitHub • VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 NeuroPath-AI
+AI/ML based healthcare prioritization project with explainability.
+
+### 🎓 Alumni Platform
+A platform designed to connect students and alumni.
+
+### 🧮 Avengers Calculator
+A web-based calculator project.
+
+### 🍽️ Restaurant Website
+A responsive restaurant website project.
+
+### 💻 DSA & LeetCode
+My journey of practicing Data Structures & Algorithms.
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Java
+- React
+- AI/ML
+- Microsoft Azure
+- System Design
+
+---
+
+## 🤝 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/Jaykumar026)
