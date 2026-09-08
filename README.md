@@ -42,6 +42,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="./dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🧠 NeuroPath-AI
