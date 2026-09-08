@@ -106,25 +106,3 @@
 </table>
 
 ---
-
-### 📈 GitHub Telemetry & Stats
-
-<p align="center">
-  <a href="https://github.com/Jaykumar026">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jaykumar026&show_icons=true&theme=radical&hide_border=true" alt="Jay's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Jaykumar026">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaykumar026&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
-<!-- DYNAMIC 3D CONTRIBUTION WAVE -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaykumar026&theme=dracula&no-frame=true&column=6&margin-w=10" alt="Trophies" />
-</p>
-
----
-
-<p align="center">
-  <i>"Writing clean, deterministic code from the memory layer up to the cloud."</i>
-</p>
