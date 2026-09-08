@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Jay Kumar Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Jay Kumar
 
 ### B.Tech CSE Student | Microsoft IEP | Software Developer
