@@ -25,16 +25,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-### Languages
-C • C++ • Java • Python • JavaScript
-
-### Web Development
-HTML • CSS • JavaScript • React
-
-### Cloud & Tools
-Microsoft Azure • Firebase • Git • GitHub • VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,azure,firebase,git,github,vscode" />
+</p>
 
 ---
 
