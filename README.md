@@ -15,7 +15,6 @@
   <tr>
     <td>
       <pre>
-<code><b>sys_info@jaykumar:~$</b> neofetch --profile
 -----------------------------------------
 <b>User:</b>        Jay Kumar (Jaykumar026)
 <b>Focus:</b>       Systems Engineering • AI/ML • Cloud
