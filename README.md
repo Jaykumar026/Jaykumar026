@@ -106,3 +106,26 @@
 </table>
 
 ---
+## 🚀 Featured Projects
+
+### 🎧 Sonic Immersion
+An interactive sound immersion web experience built with React, TypeScript and Tailwind CSS.
+
+🔗 [View Project](https://github.com/Jaykumar026/sonic-immersion-project)
+
+### 🧮 Avengers Calculator
+A simple calculator web project focused on practicing frontend development and responsive UI design.
+
+🔗 [View Project](https://github.com/Jaykumar026/avengers-calculator)
+
+### 🍽️ Restaurant Website
+A frontend web project built to practice website structure, styling, and responsive design.
+
+🔗 [View Project](https://github.com/Jaykumar026/restaurant-website-project)
+
+### 💻 DSA LeetCode
+
+A collection of Data Structures and Algorithms solutions implemented in C++ while practicing problem solving.
+
+🔗 [View Project](https://github.com/Jaykumar026/DSA-LeetCode)
+
