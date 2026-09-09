@@ -129,3 +129,18 @@ A collection of Data Structures and Algorithms solutions implemented in C++ whil
 
 🔗 [View Project](https://github.com/Jaykumar026/DSA-LeetCode)
 
+## 🏆 Certifications
+
+- ☁️ Microsoft Azure Data Fundamentals (DP-900)
+- ☁️ Microsoft Azure Database Administrator (DP-300)
+- 🔵 Microsoft Azure Fundamentals (AZ-900)
+- 🔴 Red Hat System Administration II (RH134)
+
+## 📚 Currently Learning
+
+- ☕ Java
+- 🧠 Data Structures & Algorithms
+- ☁️ Microsoft Azure
+- 🤖 AI / Machine Learning
+- ⚛️ React & Full Stack Development
+
