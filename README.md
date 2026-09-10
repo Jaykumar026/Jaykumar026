@@ -148,6 +148,7 @@ A collection of Data Structures and Algorithms solutions implemented in C++ whil
 - ☁️ Microsoft Azure Data Fundamentals (DP-900)
 - ☁️ Microsoft Azure Database Administrator (DP-300)
 - 🔵 Microsoft Azure Fundamentals (AZ-900)
+- 🔴 Red Hat System Administration II (RH124)
 - 🔴 Red Hat System Administration II (RH134)
 
 ## 📚 Currently Learning
@@ -156,5 +157,4 @@ A collection of Data Structures and Algorithms solutions implemented in C++ whil
 - 🧠 Data Structures & Algorithms
 - ☁️ Microsoft Azure
 - 🤖 AI / Machine Learning
-- ⚛️ React & Full Stack Development
 
