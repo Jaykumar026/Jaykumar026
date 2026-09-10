@@ -105,6 +105,29 @@
 </table>
 
 ---
+
+## 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://Jaykumar026.github.io">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0052D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Explore my projects, skills, certifications, and developer journey.</b>
+</p>
+
+<p align="center">
+  <a href="https://Jaykumar026.github.io">
+<a href="https://Jaykumar026.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-0052D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+  </a>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🎧 Sonic Immersion
